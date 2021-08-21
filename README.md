@@ -1,1 +1,3 @@
-# Nepalese-Stock-Price with LSTM
+# Nepalese-Stock-Price Prediction
+
+## LSTM Neural Network Architecture
