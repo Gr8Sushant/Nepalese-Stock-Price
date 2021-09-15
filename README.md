@@ -8,6 +8,8 @@ Why **LSTM (Long Short-Term Memory) Networks** ?
 
 Company: Nepal Telecom
 
+Source: Kaggle
+
 Duration: From year 2010 to 2020 
 
 ### End Result 
